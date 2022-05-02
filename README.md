@@ -4,4 +4,4 @@ In this Project I am using the Python Library OpenCV as well as the Haar cascade
 - python run enviorment
 - python opencv library
 - camera 
-###AFter photos are taken they are going to be stored into the folder that contains the SELFIE.PY file
+### AFter photos are taken they are going to be stored into the folder that contains the SELFIE.PY file
